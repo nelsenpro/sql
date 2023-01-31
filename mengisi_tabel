@@ -1,0 +1,7 @@
+insert into nm_tabel values(1,'Nelsen','Pontinak');
+
+insert into nm_tabel values(2,'Niko','Jakarta');
+
+
+melihat isi tabel:
+select * from nm_tabel;
